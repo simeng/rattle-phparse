@@ -1,0 +1,14 @@
+{
+    "name": "simeng/rattle-phparse",
+    "description": "Wrapper for rattle rocket replay parser",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Simen",
+            "email": "simeng@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/dotenv": "^3.3"
+    }
+}

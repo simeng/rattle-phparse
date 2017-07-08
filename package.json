@@ -1,0 +1,12 @@
+{
+  "description": "rocket league replay rattletrap parser",
+  "dependencies": {
+    "css-loader": "^0.28.4",
+    "dropzone": "^5.1.1",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.1.0"
+  },
+  "scripts": {
+    "start": "webpack"
+  }
+}
